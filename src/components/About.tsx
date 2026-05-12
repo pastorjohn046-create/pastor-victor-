@@ -18,7 +18,7 @@ export default function About() {
         >
           <div className="aspect-[3/4] w-full max-w-md mx-auto shadow-2xl relative z-10 border border-white/10 bg-brand-surface p-2 md:p-3">
             <img
-              src="/input_file_1.png"
+              src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=600&h=800&auto=compress"
               alt="Pastor Victor Anehike"
               referrerPolicy="no-referrer"
               className="w-full h-full object-cover"

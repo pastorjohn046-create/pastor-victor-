@@ -6,11 +6,11 @@
 import { motion } from "motion/react";
 
 const images = [
-  { url: "/input_file_2.png", caption: "A Heart for Worship" },
-  { url: "/input_file_0.png", caption: "The Ministry of Grace" },
-  { url: "/input_file_3.png", caption: "Walking in Purpose" },
-  { url: "/input_file_4.png", caption: "Intercession & Power" },
-  { url: "/input_file_1.png", caption: "Word & Excellence" },
+  { url: "https://images.unsplash.com/photo-1511632765486-a01980e01a18?auto=format&fit=crop&q=80&w=800&h=600", caption: "A Heart for Worship" },
+  { url: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&q=80&w=800&h=800", caption: "The Ministry of Grace" },
+  { url: "https://images.unsplash.com/photo-1574607383476-f517f260d30b?auto=format&fit=crop&q=80&w=800&h=533", caption: "Walking in Purpose" },
+  { url: "https://images.unsplash.com/photo-1501724321287-fc2a48be177b?auto=format&fit=crop&q=80&w=600&h=800", caption: "Intercession & Power" },
+  { url: "https://images.unsplash.com/photo-1517048676732-d65bc937f952?auto=format&fit=crop&q=80&w=1200&h=675", caption: "Word & Excellence" },
 ];
 
 export default function Gallery() {
