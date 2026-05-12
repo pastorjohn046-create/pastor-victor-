@@ -71,7 +71,7 @@ export default function Hero() {
           >
             <div className="aspect-[4/5] w-full max-w-[500px] mx-auto lg:ml-auto border border-white/10 bg-brand-surface p-2 md:p-4 shadow-3xl group relative overflow-hidden">
               <img 
-                src="/input_file_0.png" 
+                src="/input_file_2.png" 
                 alt="Pastor Victor Anehike" 
                 className="w-full h-full object-cover grayscale opacity-70 lg:opacity-80 group-hover:opacity-100 group-hover:grayscale-0 group-hover:scale-105 transition-all duration-1000"
               />

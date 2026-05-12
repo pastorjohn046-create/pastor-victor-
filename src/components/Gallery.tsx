@@ -6,11 +6,11 @@
 import { motion } from "motion/react";
 
 const images = [
-  { url: "/input_file_0.png", caption: "Ministry in Action" },
-  { url: "/input_file_1.png", caption: "Word & Grace" },
-  { url: "https://picsum.photos/seed/ministry3/800/800?grayscale", caption: "Youth Outreach" },
-  { url: "https://picsum.photos/seed/ministry4/600/800?grayscale", caption: "Prophetic Service" },
-  { url: "https://picsum.photos/seed/ministry5/800/600?grayscale", caption: "Grace Outreach" },
+  { url: "/input_file_2.png", caption: "A Heart for Worship" },
+  { url: "/input_file_0.png", caption: "The Ministry of Grace" },
+  { url: "/input_file_3.png", caption: "Walking in Purpose" },
+  { url: "/input_file_4.png", caption: "Intercession & Power" },
+  { url: "/input_file_1.png", caption: "Word & Excellence" },
 ];
 
 export default function Gallery() {
